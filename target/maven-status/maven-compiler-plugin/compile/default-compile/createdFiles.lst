@@ -1,0 +1,12 @@
+com\discs\groups\model\response\GroupGeneralResponse.class
+com\discs\groups\GroupsServerApplication.class
+com\discs\groups\dao\GroupRepositoryCustom.class
+com\discs\groups\dao\SequenceDaoImpl.class
+com\discs\groups\dao\SequenceDao.class
+com\discs\groups\model\Group.class
+com\discs\groups\dao\GroupRepository.class
+com\discs\groups\ErrorCodes.class
+com\discs\groups\dao\GroupRepositoryCustomImpl.class
+com\discs\groups\controller\GroupsController.class
+com\discs\groups\exceptions\SequenceException.class
+com\discs\groups\model\SequenceId.class
